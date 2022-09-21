@@ -6,7 +6,7 @@
 
 ## Sobre mim 
 
-🙋‍♂️ Eu ... : OLá, sou de Aparecida de Goiânia, tenho 19 anos, sou amante da tecnoliga e de jogos, e tenho o objetivo de me tornar programador.
+🙋‍♂️ Eu ... : OLá, sou de Aparecida de Goiânia GO, tenho 19 anos, sou amante da tecnoliga e de jogos, e tenho o objetivo de me tornar programador.
 
 🧠 Estou aprendendo : 
   -  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
