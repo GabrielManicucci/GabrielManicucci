@@ -6,7 +6,7 @@
 
 ## Sobre mim 
 
-🙋‍♂️ Eu ... : OLá, sou de Aparecida de Goiânia GO, tenho 19 anos, sou amante da tecnoliga e de jogos, e tenho o objetivo de me tornar programador.
+🙋‍♂️ Eu ... : OLá, sou de Aparecida de Goiânia GO, tenho 20 anos, sou amante da tecnoliga e de jogos, e tenho o objetivo de me tornar programador.
 
 
 
