@@ -5,23 +5,23 @@
 
 ## Sobre mim 
 
-🙋‍♂️ OLá, sou de Aparecida de Goiânia GO, tenho 20 anos, sou amante da tecnologia e de jogos, e tenho o objetivo de me tornar programador.
+OLá, sou de Aparecida de Goiânia GO, tenho 20 anos, sou amante da tecnologia e de jogos, e tenho o objetivo de me tornar programador.
 
 
 
-🧠 Estou aprendendo : 
+Estou aprendendo : 
 -  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 -  ![JavaScript](https://img.shields.io/badge/javascript-f0b619?style=for-the-badge&logo=javascript&logoColor=white)
 -  ![Noode.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-👯‍♀️ Procuro colaborar em... :  Aplicações de front-end com html e css, e back end com Node.js
+Procuro colaborar em... :  Aplicações de front-end com html e css, e back end com Node.js
 
 
-📚 EStudo por cursos online...
+Estudo por cursos online...
 
 
-📩 Como entrar em contato comigo ... :  
+Como entrar em contato comigo ... :  
   - E-mail: gabrielmanicucci@outlook.com
   - Gmail: manicucciguedes15@gmail.com
 
