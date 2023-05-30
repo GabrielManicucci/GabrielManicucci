@@ -3,10 +3,9 @@
 
 
 
-
 ## Sobre mim 
 
-🙋‍♂️ Eu ... : OLá, sou de Aparecida de Goiânia GO, tenho 20 anos, sou amante da tecnoliga e de jogos, e tenho o objetivo de me tornar programador.
+🙋‍♂️ OLá, sou de Aparecida de Goiânia GO, tenho 20 anos, sou amante da tecnologia e de jogos, e tenho o objetivo de me tornar programador.
 
 
 
@@ -19,10 +18,7 @@
 👯‍♀️ Procuro colaborar em... :  Aplicações de front-end com html e css, e back end com Node.js
 
 
-📚 EStudo por cursos online... : Atualmente sou aluno da COD3RS no curso web moderno 
-
-
-😄 Pronomes... : As pessoas me chamam pelo sobrenome 
+📚 EStudo por cursos online...
 
 
 📩 Como entrar em contato comigo ... :  
@@ -30,14 +26,10 @@
   - Gmail: manicucciguedes15@gmail.com
 
 
-
-
 ## 🛠 Habilidades
 ![html](https://img.shields.io/badge/html5-f4442e?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-315EBD?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-f0b619?style=for-the-badge&logo=javascript&logoColor=white)
-
-
 
 
 
