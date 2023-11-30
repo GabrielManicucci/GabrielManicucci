@@ -1,13 +1,17 @@
 
-# Olá, eu sou o Gabriel Manicucci, seja bem vindo! 👋
+# Hi, I'm Gabriel Manicucci! 
+[![Gabriel Manicucci GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielManicucci&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dracula" />
 
 
 
-## Sobre mim 
+## About me
+- 🔥 Web developer fullstack Javascript in progress
+-  
 
-OLá, sou de Aparecida de Goiânia GO, tenho 20 anos, sou amante da tecnologia e de jogos, e tenho o objetivo de me tornar programador.
-
-
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 Estou aprendendo : 
 -  ![Noode.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
