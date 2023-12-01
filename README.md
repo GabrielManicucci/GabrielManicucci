@@ -1,7 +1,12 @@
+![Oficial Profile banner github - 2](https://github.com/GabrielManicucci/GabrielManicucci/assets/90355363/30ad279d-270f-408a-b48b-d04382e31dea)
 
-# Hi, I'm Gabriel Manicucci! 
+## Hi, I'm Gabriel Manicucci! 
 
-<p>I'm a developer fullstack Javascript in progress, but I already have domaining of the frontend stack in Javascript and backend stack base in nodejs, i'm interested in ux/ui design because I like doing it for my projects and for potential freelancers. I'm currently opne to work and freelancers, I'm young interested in football, e-sports games, science, astronomy, movies and technology</p>
+<p>I'm a developer fullstack Javascript in progress, but I already have domaining of the frontend stack in Javascript and backend stack base in nodejs, i'm interested in ux/ui design because I like doing it for my projects and for potential freelancers. I'm currently opne to work and freelancers, I'm young from Brazil interested in football, e-sports games, science, astronomy, movies and technology</p>
+
+[![Gabriel Manicucci GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielManicucci&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielManicucci&theme=dracula&layout=compact" />
+<br></br>
 
 ### Main stack
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -21,9 +26,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <br></br>
-
-[![Gabriel Manicucci GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielManicucci&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielManicucci&theme=dracula&layout=compact" />
 
 ## Contact  
   - E-mail: gabrielmanicucci@outlook.com
