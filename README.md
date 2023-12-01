@@ -1,4 +1,4 @@
-![Oficial Profile banner github - 2](https://github.com/GabrielManicucci/GabrielManicucci/assets/90355363/30ad279d-270f-408a-b48b-d04382e31dea)
+![Oficial Profile banner github - 2](https://github.com/GabrielManicucci/GabrielManicucci/assets/90355363/2015b8f0-75df-4204-90a1-a36dec3aa87a)
 
 ## Hi, I'm Gabriel Manicucci! 
 
