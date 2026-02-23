@@ -1,8 +1,8 @@
-![Oficial Profile banner github - 2](https://github.com/GabrielManicucci/GabrielManicucci/assets/90355363/2015b8f0-75df-4204-90a1-a36dec3aa87a)
+<img width="1112" height="240" alt="Profile banner - 5" src="https://github.com/user-attachments/assets/341aee2a-9cbd-47b5-b018-7f335dd67ef3" />
 
 ## Hi, I'm Gabriel Manicucci! 
 
-<p>I'm a developer fullstack Javascript in progress, but I already have domaining of the frontend stack in Javascript and backend stack base in nodejs, i'm interested in ux/ui design because I like doing it for my projects and for potential freelancers. I'm currently opne to work and freelancers, I'm young from Brazil interested in football, e-sports games, science, astronomy, movies and technology</p>
+<p>Full Stack Software Enginner with a proven track record of handling the entire product lifecycle—from business logic and product design to software execution. Since April 2024, I have been building end-to-end solutions, including requirements gathering, Figma prototyping, and full-stack development using JavaScript, TypeScript, React, and Node.js. I also specialize in deploying scalable infrastructure on AWS, Vercel, and DigitalOcean using Docker.</p>
 
 [![Gabriel Manicucci GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielManicucci&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielManicucci&theme=dracula&layout=compact" />
