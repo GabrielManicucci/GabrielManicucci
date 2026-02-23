@@ -1,4 +1,4 @@
-<img width="1112" height="240" alt="Profile banner - 5" src="https://github.com/user-attachments/assets/341aee2a-9cbd-47b5-b018-7f335dd67ef3" />
+<img width="1112" height="240" alt="Profile banner - 5" src="https://github.com/user-attachments/assets/f86f7840-5635-4b1e-be9d-46ffb7c571e0" />
 
 ## Hi, I'm Gabriel Manicucci! 
 
