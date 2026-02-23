@@ -3,9 +3,6 @@
 ## Hi, I'm Gabriel Manicucci! 
 
 <p>Full Stack Software Enginner with a proven track record of handling the entire product lifecycle—from business logic and product design to software execution. Since April 2024, I have been building end-to-end solutions, including requirements gathering, Figma prototyping, and full-stack development using JavaScript, TypeScript, React, and Node.js. I also specialize in deploying scalable infrastructure on AWS, Vercel, and DigitalOcean using Docker.</p>
-
-[![Gabriel Manicucci GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielManicucci&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielManicucci&theme=dracula&layout=compact" />
 <br></br>
 
 ### Main stack
