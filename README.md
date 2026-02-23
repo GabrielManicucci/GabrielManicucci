@@ -2,7 +2,7 @@
 
 ## Hi, I'm Gabriel Manicucci! 
 
-<p>Full Stack Software Enginner with a proven track record of handling the entire product lifecycle—from business logic and product design to software execution. Since April 2024, I have been building end-to-end solutions, including requirements gathering, Figma prototyping, and full-stack development using JavaScript, TypeScript, React, and Node.js. I also specialize in deploying scalable infrastructure on AWS, Vercel, and DigitalOcean using Docker.</p>
+<p>Full Stack Software Enginner with a proven track record of handling the entire product lifecycle—from business logic and product design to software execution. I have been building end-to-end solutions, including requirements gathering, Figma prototyping, and full-stack development using JavaScript, TypeScript, React, and Node.js. I also specialize in deploying scalable infrastructure on AWS, Vercel, and DigitalOcean using Docker.</p>
 <br></br>
 
 ### Main stack
